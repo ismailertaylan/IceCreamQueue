@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607282598 source:c:\users\casper\desktop\software\data proje\deneme1\dataproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
